@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diptirani16/weather-app.git"
+  },
+  "author": "Dipti Rani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diptirani16/weather-app/issues"
+  },
+  "homepage": "https://github.com/diptirani16/weather-app#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
